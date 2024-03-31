@@ -1,7 +1,7 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h2 align="center">🌎 𝙀𝙑𝘼-𝙈𝘿 🌎</h2>
+<h2 align="center">🌎 𝘼𝙕𝙐𝙍𝘼-𝙈𝘿 🌎</h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header&text=𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐈𝐃𝐎/𝐀&fontSize=30&fontColor=FFF&animation=twinkling&fontAlignY=30"/>
 
 [![Menu2.jpg](https://i.postimg.cc/G3zHrvFG/IMG-20240329-WA0106.jpg)](https://postimg.cc/3WcbxVMM)
@@ -38,7 +38,7 @@ git clone https://github.com/Bots-WhatsApp-OFC/NaufraZapp-MD
 ```
 
 ```bash
-cd NaufraZapp-MD
+cd AZURA-MD
 ```
 
 ```bash
@@ -65,7 +65,7 @@ cd
 ```
 
 ```bash
-cd NaufraZapp-MD
+cd AZURA-MD
 ```
 
 ```bash
