@@ -1,5 +1,5 @@
 {
-"name": "LoliBot-MD",
+"name": "Azura-MD",
 "version": "1.5.7", 
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/elrebelde21/LoliBot-MD",
+"homepage": "https://github.com/Jefferson10MR/AZURA-MD",
 "author": {
-"name": "elrebelde21" },
+"name": "Jefferson10MR" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/elrebelde21/LoliBot-MD.git" },
+"url": "git+https://github.com/Jefferson10MR/AZURA-MD" },
 
 "bugs": {
-"url": "https://github.com/elrebelde21/LoliBot-MD/issues" },
+"url": "https://github.com/Jefferson10MR/AZURA-MD" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.6.0",
