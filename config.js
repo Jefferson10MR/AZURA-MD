@@ -10,9 +10,9 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573026191480', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['5217294888993'], ['5492266466080'], ['595985451858'], ['595992302861'], ['5492266613038'], ['5491161057561'], ['595986172767'], ['5217441298510'], ['5492964650915']]
-global.mods = ['50495745934']
-global.prems = ['972529277314'],
+global.owner = [['51995490187', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['51994776222'], ['51951284822'], [''], [''], [''], [''], [''], [''], [''], ['']]
+global.mods = ['51995490187']
+global.prems = ['51995490187'],
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -75,11 +75,11 @@ global.moment = moment
 //------------------------[ Stickers ]-----------------------------
 
 global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.author = '𝘼𝙕𝙐𝙍𝘼-𝙈𝘿'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝘼𝙕𝙐𝙍𝘼-𝙈𝘿'
 global.vs = '1.5.7'
 global.yt = 'https://www.youtube.com/@elrebelde.21'
 global.tiktok = 'tiktok.com/@elrebelde21'
