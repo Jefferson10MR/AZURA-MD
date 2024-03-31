@@ -80,11 +80,11 @@ global.author = '𝘼𝙕𝙐𝙍𝘼-𝙈𝘿'
 //------------[ Versión | Nombre | cuentas ]------------
 
 global.wm = '𝘼𝙕𝙐𝙍𝘼-𝙈𝘿'
-global.vs = '1.5.7'
-global.yt = ''
-global.tiktok = ''
-global.md = ''
-global.fb = ''
+global.vs = '1.5.9'
+global.yt = 'Wa.me/51995490187'
+global.tiktok = 'Wa.me/51995490187'
+global.md = 'Wa.me/51995490187'
+global.fb = 'Wa.me/51995490187'
 global.face = 'Wa.me/51995490187'
 
 global.nna = '' //Update
@@ -93,7 +93,7 @@ global.nnn = '' //Grupo 2
 global.nnnt = '' //Grupo del Colaboracion
 global.nnnt2 = '' // Grupo COL 2
 global.nnntt = '' //Grupo COL 3
-global.nnnttt = '' //enlace lolibot
+global.nnnttt = '' //enlace 𝘼𝙕𝙐𝙍𝘼-𝙈𝘿
 global.nnntttt = '' //Grupo ayuda sobre el bot
 global.bot = 'Wa.me/51907779949'
 global.asistencia = `${fb}`
