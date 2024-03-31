@@ -100,11 +100,11 @@ global.asistencia = `${fb}`
 global.redes = [nna, yt, nn, md, tiktok, fb, nnn, face]
 
 //-------------------------[ IMAGEN ]------------------------------
-global.imagen = fs.readFileSync('./Menu2.jpg')
-global.imagen1 = fs.readFileSync('./media/Menu1.jpg')
-global.imagen2 = fs.readFileSync('./media/Menu2.jpg')
-global.imagen3 = fs.readFileSync('./media/Menu3.jpg')
-global.imagen4 = fs.readFileSync('./media/Menu4.jpg')
+global.imagen = fs.readFileSync('./media/Menu.jpg')
+global.imagen1 = fs.readFileSync('./media/Menu.jpg')
+global.imagen2 = fs.readFileSync('./media/Menu.jpg')
+global.imagen3 = fs.readFileSync('./media/Menu.jpg')
+global.imagen4 = fs.readFileSync('./media/Menu.jpg')
 global.imagen5 = 'https://qu.ax/rULv.jpg'
 global.imagen6 = 'https://qu.ax/CySs.jpg'
 global.menu18 = 'https://qu.ax/MOgO.jpg'
