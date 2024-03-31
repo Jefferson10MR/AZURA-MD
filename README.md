@@ -34,7 +34,7 @@ pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Bots-WhatsApp-OFC/NaufraZapp-MD 
+git clone https://github.com/Jefferson10MR/AZURA-MD 
 ```
 
 ```bash
