@@ -87,7 +87,7 @@ let menu = `『 ${wm} 』
 \`□ Registrado:\` ${rtotalreg} de ${totalreg} ${(conn.user.jid == global.conn.user.jid ? '' : `\n□ *Soy un sub bot del:* wa.me/${global.conn.user.jid.split`@`[0]}`) || ''}
     
 \`□ COMO INSTALAR EL BOT\`
-https://youtu.be/O_j2q5xCg3A
+
 
 \`◉ INFO DEL USUARIO\`
 > □ *🙌 Registrado:* ${user.registered === true ? '✅' : '❌ _#verificar_'}
@@ -95,7 +95,7 @@ https://youtu.be/O_j2q5xCg3A
 > □ *🔰 Mi estado:* ${typeof user.miestado !== 'string' ? '_#miestado || Estado no asignado_' : '_Me siento ' + user.miestado + '_'}
 > □ *🎖️ Nivel:* ${level}
 > □ *💎 Diamantes:* ${limit}
-> □ *👾 LoliCoins:* ${money}
+> □ *👾 AZURACoins:* ${money}
 > □ *🪙 Tokens:* ${joincount}
 > □ *🧰 Experiencia:* ${exp}
 > □ *⚓ Rango:* ${role}
