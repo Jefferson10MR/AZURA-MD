@@ -194,7 +194,7 @@ git clone https://github.com/elrebelde21/LoliBot-MD && cd LoliBot-MD
 echo -e "\033[01;32m\033[01mLa clonación se ha descargado e instalado correctamente.\n\033[0m"
 
 echo -e "\033[01;32m\033[01mCambiando al directorio del repositorio!!\n\033[0m" 
-cd LoliBot-MD
+cd AZURA-MD
 
 echo -e "\e[36m
 ██╗███╗░░██╗░██████╗████████╗░█████╗░██╗░░░░░██╗░░░░░  ███╗░░██╗██████╗░███╗░░░███╗
@@ -247,7 +247,7 @@ v1="${b}\033[32m"
 b="\033[0m"
 
 menu() {
-	#LoliBot-MD
+	#AZURA-MD
 	echo -e "${v1} MENÚ DE CONFIGURACIÓN"
 	printf "\n"
 	printf "${v1}[${b}01${v1}]${v} Visistar Grupo de Actualizaciones\n"
